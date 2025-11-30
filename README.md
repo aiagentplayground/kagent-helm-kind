@@ -206,15 +206,22 @@ kagent-helm-kind/
 │       └── tests/                 # Unit tests
 ├── registry/                       # Agent registry documentation
 │   └── README.md                   # Registry usage guide
+├── wiki/                           # Wiki pages
+│   ├── Home.md                     # Wiki home page
+│   └── Kubernetes-MCP-Agents.md    # Kubernetes MCP architecture guide
 ├── agent_registry_guide.md         # Detailed registry tutorial
-└── blog_kubernetes_mcp_agents.md   # Conceptual overview blog post
+└── blog_kubernetes_mcp_agents.md   # Original blog post (archived)
 ```
 
 ## Additional Resources
 
+### Wiki
+
+- **[Wiki Home](./wiki/Home.md)** - Wiki documentation index
+- **[Kubernetes MCP Agents](./wiki/Kubernetes-MCP-Agents.md)** - Deep dive into the architecture and concepts (why Kubernetes is the ultimate platform for AI agents)
+
 ### Conceptual Guides
 
-- **[Kubernetes MCP Agents Blog](./blog_kubernetes_mcp_agents.md)** - Deep dive into the architecture and concepts
 - **[Agent Registry Tutorial](./agent_registry_guide.md)** - Step-by-step registry usage with examples
 
 ### Official Documentation

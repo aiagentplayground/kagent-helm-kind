@@ -596,4 +596,4 @@ The future of AI agents is declarative, scalable, and cloud-native. Kubernetes p
 
 ---
 
-**Navigation:** [[Home]] | [[Kubernetes-MCP-Agents]]
+**Navigation:** [[Home]]
